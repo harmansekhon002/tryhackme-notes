@@ -1,1 +1,1 @@
-# tryhackme-notes
+# tryhackme-notes - Jr Penetration Tester Path
