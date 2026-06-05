@@ -1,0 +1,10 @@
+- cd command is used to check where we are currently on the pc 
+- cd is also used to go back on the previous level
+- dir command is used to list the files and folders of our desktop
+- dir -a is used to list all the files including the hidden ones
+- dir /s task_brief.txt {/s}is used to find the subfolders for the file if exists and list its full path
+- type task_brief.txt - to open the file
+- whoami - user current
+- hostname - pc name
+- systeminfo - information of system
+- ipconfig - network info
