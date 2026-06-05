@@ -2,16 +2,14 @@
 
 Structured notes from my TryHackMe learning journey, organized by path and module.
 
----
-
 ## 📂 Structure
 
+```
 cyber-security/
 ├── pre-security/        # Completed ✅
 ├── cyber-101/           # Completed ✅
 └── jr-pentester/        # In Progress 🔄
-
----
+```
 
 ## 📈 Progress
 
